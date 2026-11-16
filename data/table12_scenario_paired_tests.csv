@@ -1,0 +1,13 @@
+metric,baseline,scenario_wins_out_of_20,mean_COLA_minus_baseline_mm,p_raw,p_holm
+DD,Scan-GA,20,+0.007703,9.54e-7,3.81e-6
+DD,Uniform,20,+0.015574,9.54e-7,3.81e-6
+DD,Fixed response,20,+0.094697,9.54e-7,3.81e-6
+DD,COBYLA,20,+0.014368,9.54e-7,3.81e-6
+MeanRG,Scan-GA,20,-0.008192,9.54e-7,3.81e-6
+MeanRG,Uniform,20,-0.022651,9.54e-7,3.81e-6
+MeanRG,Fixed response,20,-0.135594,9.54e-7,3.81e-6
+MeanRG,COBYLA,20,-0.023508,9.54e-7,3.81e-6
+MaxRG,Scan-GA,6,+0.008995,0.985,0.985
+MaxRG,Uniform,20,-0.133246,9.54e-7,3.81e-6
+MaxRG,Fixed response,20,-0.325351,9.54e-7,3.81e-6
+MaxRG,COBYLA,20,-0.154889,9.54e-7,3.81e-6

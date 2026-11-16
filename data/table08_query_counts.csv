@@ -1,0 +1,7 @@
+evaluation_category,total_calls,calls_per_case,acquisitions_per_case
+Initial-identification probe states,38400,40.0,800.0
+Re-identification probe states,230120,239.7,4794.2
+Current states,20905,21.8,435.5
+Coarse trial states,20817,21.7,433.7
+Bisection midpoints,40425,42.1,842.2
+Total,350667,365.3,7305.6

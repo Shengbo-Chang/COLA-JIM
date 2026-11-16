@@ -1,0 +1,4 @@
+metric,vs_Scan_GA_percent,vs_Uniform_percent,vs_Fixed_percent,vs_COBYLA_percent
+DD,68.4,94.3,98.2,100.0
+MeanRG,62.7,94.4,98.4,100.0
+MaxRG,34.8,94.0,94.6,98.5

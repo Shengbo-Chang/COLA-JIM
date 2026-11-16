@@ -1,0 +1,7 @@
+stiffness_scale,method,DD_mm,MeanRG_mm,MaxRG_mm
+0.8,COLA,1.1697,0.0959,2.1998
+0.8,Fixed response,1.0652,0.2621,2.6494
+1.0,COLA,1.1536,0.1206,2.3258
+1.0,Fixed response,1.0402,0.2923,2.7009
+1.2,COLA,1.1352,0.1481,2.4120
+1.2,Fixed response,1.0152,0.3210,2.7398
